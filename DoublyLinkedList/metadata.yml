@@ -1,0 +1,14 @@
+---
+:id: 23022575
+:submitters:
+- :name: Alejandro Serrano
+  :email: u1214728@utah.edu
+- :name: AARON MORGAN
+  :email: aaron.morgan@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-10-24 02:59:45.571610000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-10-23 19:59:45.571610000 Z
+:status: processed
+:score: 100.0
